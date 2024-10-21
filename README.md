@@ -1,13 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashutosh Mishra</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashumishrag" alt="ashumishrag" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/ashumishrag1" target="blank"><img src="https://img.shields.io/twitter/follow/ashumishrag1?logo=twitter&style=for-the-badge" alt="ashumishrag1" /></a> </p>
-
 # 💫 About Me:
 Software Engineer Intern | AI/ML Research | MERN Stack Developer | IoT, Docker & Data Visualisation Expert
-
 
 ## 🌐 Socials:
 <h3 align="left">Connect with me:</h3>
