@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashutosh Mishra</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
+---
+[![](https://visitcount.itsvg.in/api?id=ashumishrag&icon=2&color=13)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 <h3 align="left">Connect with me:</h3>
@@ -28,9 +30,6 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ashumishrag&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=ashumishrag&icon=2&color=13)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/AshuMishraG) 
