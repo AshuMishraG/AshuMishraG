@@ -32,8 +32,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ashumishrag&theme=onedark)](https://github.com/ANTRUMEYE/-Github-Profile-Trophy)
 
-[![trophy](https://github-profile-trophy.screw-hand.vercel.app/?ashumishrag=screw-hand&rank=SECRET&wantMultipleOrganizations=true)
-
 ### 🔝 Top Contributed Repo
 
 ![](https://github-contributor-stats.vercel.app/api?username=ashumishrag&limit=5&theme=dark&combine_all_yearly_contributions=true)
