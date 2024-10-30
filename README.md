@@ -29,7 +29,7 @@
 [![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ashumishrag&My_Github_Activity=This%20is%20a%20title&hide_border=true)](https://github.com/ashumishrag/github-readme-activity-graph)
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=ANTRUMEYE&theme=onedark)](https://github.com/ANTRUMEYE/-Github-Profile-Trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ashumishrag&theme=onedark)](https://github.com/ANTRUMEYE/-Github-Profile-Trophy)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ashumishrag&limit=5&theme=dark&combine_all_yearly_contributions=true)
