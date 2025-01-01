@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ashutosh Mishra 🕉️</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+<h3 align="center">A passionate Software Engineer from India 
+
+  [![](https://visitcount.itsvg.in/api?id=ashumishrag&icon=10&color=13)](https://visitcount.itsvg.in)
+</h3>
 
 
 <!-- Counter -->
 <div align="center">
 
-[![](https://visitcount.itsvg.in/api?id=ashumishrag&icon=10&color=13)](https://visitcount.itsvg.in)
 
 </div>
 
