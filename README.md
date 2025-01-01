@@ -21,9 +21,13 @@
 
 </div>
 
+<!-- Tech Stack -->
+<div align="center">
 
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
 
 
 <!-- Tech Stack -->
@@ -61,7 +65,6 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=AshuMishraG&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AshuMishraG&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 ## 💰 You can help me by Donating
