@@ -45,34 +45,8 @@
 
 
 ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=AshuMishraG&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ashumishrag&theme=onedark)](https://github.com/ANTRUMEYE/-Github-Profile-Trophy)
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/AshuMishraG) 
-
-
-
-
-
-
-
-
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AshuMishraG&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AshuMishraG&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AshuMishraG&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AshuMishraG&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AshuMishraG&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=AshuMishraG&icon=2&color=13)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
