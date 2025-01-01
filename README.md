@@ -1,16 +1,15 @@
-<h1 align="center">Hi 👋, I'm Ashutosh Mishra 🕉️</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+<h1 align="center">Hi 👋, I'm Ashutosh Mishra 🕉️ A passionate Software Engineer from India 🇮🇳 </h1>
 
 
 <!-- Counter -->
-<div align="center">
+<div align="right">
 
 [![](https://visitcount.itsvg.in/api?id=ashumishrag&icon=10&color=13)](https://visitcount.itsvg.in)
 
 </div>
 
 
-<div align="center">
+<div align="left">
 
 <h3>🌐 Socials, Let's Connect! :</h3>
 <p>
@@ -62,6 +61,8 @@
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=AshuMishraG&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=AshuMishraG&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <!--
