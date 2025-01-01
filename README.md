@@ -1,6 +1,36 @@
 <h1 align="center">Hi 👋, I'm Ashutosh Mishra 🕉️</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
+  <div>
+    <div align="center">
+      <h3>🌐 Socials, Let's Connect! :</h3>
+      <p>
+        <a href="https://twitter.com/ashumishrag1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashumishrag1" height="30" width="40" /></a>
+        <a href="https://linkedin.com/in/ashumishrag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashumishrag" height="30" width="40" /></a>
+        <a href="https://www.leetcode.com/ashumishrag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ashumishrag" height="30" width="40" /></a>
+      </p>
+    </div>
+        <div align="center" style="margin-top: 20px;">
+      [![](https://visitcount.itsvg.in/api?id=ashumishrag&icon=10&color=13)](https://visitcount.itsvg.in)
+    </div>
+  </div>
+  <div align="center">
+    <h3>✍️ Dev Quote</h3>
+    <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight" alt="Dev Quote" style="max-width: 100%; height: auto;">
+  </div>
+</div>
+
+
+
+
+
+
+
+
+<h1 align="center">Hi 👋, I'm Ashutosh Mishra 🕉️</h1>
+<h3 align="center">A passionate Software Engineer from India</h3>
+
 
 <!-- Counter -->
 <div align="center">
