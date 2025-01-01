@@ -19,6 +19,10 @@
 <a href="https://www.leetcode.com/ashumishrag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ashumishrag" height="30" width="40" /></a>
 </p>
 
+</div>
+
+
+<div align="center">
 
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
