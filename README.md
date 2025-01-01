@@ -10,6 +10,8 @@
 </div>
 
 
+<div align="center">
+
 <h3 align="left">🌐 Socials, Connect with me :</h3>
 <p align="left">
 <a href="https://twitter.com/ashumishrag1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashumishrag1" height="30" width="40" /></a>
@@ -19,8 +21,6 @@
 
 
 ### ✍️ Dev Quote
-<div align="center">
-
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
 </div>
