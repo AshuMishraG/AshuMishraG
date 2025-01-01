@@ -1,24 +1,54 @@
 <h1 align="center">Hi 👋, I'm Ashutosh Mishra 🕉️ A passionate Software Engineer from India 🇮🇳 </h1>
 
 
-<!-- Counter -->
-<div align="right">
-
-[![](https://visitcount.itsvg.in/api?id=ashumishrag&icon=10&color=13)](https://visitcount.itsvg.in)
-
+<div style="width: 100%;">
+  <img src="data:image/svg+xml;utf8,
+    <svg fill='none' viewBox='0 0 800 400' width='100%' height='100%' xmlns='http://www.w3.org/2000/svg'>
+      <foreignObject width='100%' height='100%'>
+        <div xmlns='http://www.w3.org/1999/xhtml'>
+          <style>
+            .container {
+              display: flex;
+              justify-content: space-between;
+              width: 100%;
+              height: 100%;
+            }
+            .counter {
+              width: 30%;
+              text-align: left;
+            }
+            .socials {
+              width: 70%;
+              text-align: right;
+            }
+          </style>
+          <div class='container'>
+            <div class='counter'>
+              <a href='https://visitcount.itsvg.in' target='_blank'>
+                <img src='https://visitcount.itsvg.in/api?id=ashumishrag&icon=10&color=13' alt='visit counter'>
+              </a>
+            </div>
+            <div class='socials'>
+              <h3>🌐 Socials, Let's Connect :</h3>
+              <p>
+                <a href='https://twitter.com/ashumishrag1' target='_blank'>
+                  <img src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg' alt='ashumishrag1' height='30' width='40'>
+                </a>
+                <a href='https://linkedin.com/in/ashumishrag' target='_blank'>
+                  <img src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg' alt='ashumishrag' height='30' width='40'>
+                </a>
+                <a href='https://www.leetcode.com/ashumishrag' target='_blank'>
+                  <img src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg' alt='ashumishrag' height='30' width='40'>
+                </a>
+              </p>
+            </div>
+          </div>
+        </div>
+      </foreignObject>
+    </svg>
+  " style="width: 100%;" alt="Custom Layout">
 </div>
 
-
-<div align="left">
-
-<h3>🌐 Socials, Let's Connect! :</h3>
-<p>
-<a href="https://twitter.com/ashumishrag1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashumishrag1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ashumishrag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashumishrag" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ashumishrag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ashumishrag" height="30" width="40" /></a>
-</p>
-
-</div>
 
 
 <div align="center">
