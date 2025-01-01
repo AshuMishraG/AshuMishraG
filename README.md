@@ -53,6 +53,9 @@
 </div>
 
 
+![snake gif](https://github.com/AshuMishraG/AshuMishraG/blob/output/github-snake-dark.svg)
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AshuMishraG&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
