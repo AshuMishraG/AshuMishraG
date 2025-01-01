@@ -5,7 +5,7 @@
 <!-- Counter -->
 <div align="center">
 
-[![](https://visitcount.itsvg.in/api?id=ashumishrag&icon=2&color=13)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=AshuMishraG&icon=10&color=13)](https://visitcount.itsvg.in)
 
 </div>
 
@@ -69,3 +69,13 @@
   --->
 
 </div>
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AshuMishraG&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AshuMishraG&theme=tokyonight&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AshuMishraG&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+---
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
