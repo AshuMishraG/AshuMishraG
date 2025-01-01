@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ashutosh Mishra</h1>
+<h1 align="center">Hi 👋, I'm Ashutosh Mishra 🕉️</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
 
@@ -12,7 +12,7 @@
 
 <div align="center">
 
-<h3>🌐 Socials, Connect with me :</h3>
+<h3>🌐 Socials, Let's Connect! :</h3>
 <p>
 <a href="https://twitter.com/ashumishrag1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashumishrag1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ashumishrag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashumishrag" height="30" width="40" /></a>
