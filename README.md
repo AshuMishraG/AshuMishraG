@@ -50,7 +50,9 @@
 
 ![ashumishrag's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashumishrag&theme=tokyonight&hide_border=false)
 
+<!--
 ![ashumishrag's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashumishrag&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
+-->
 
 ![ashumishrag's Stats](https://github-readme-stats.vercel.app/api?username=ashumishrag&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 
