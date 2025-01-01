@@ -24,7 +24,7 @@
 <!-- Tech Stack -->
 <div align="center">
 
-### ✍️ Dev Quote
+# ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
@@ -33,7 +33,7 @@
 <!-- Tech Stack -->
 <div align="center">
 
-### 🐍 Snake  Eats My Contributions!
+# 🐍 Snake  Eats My Contributions!
 ![snake gif](https://github.com/AshuMishraG/AshuMishraG/blob/output/github-snake-dark.svg)
 
   
