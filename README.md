@@ -5,7 +5,7 @@
 <!-- Counter -->
 <div align="center">
 
-[![](https://visitcount.itsvg.in/api?id=AshuMishraG&icon=10&color=13)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=ashumishrag&icon=2&color=13)](https://visitcount.itsvg.in)
 
 </div>
 
@@ -48,11 +48,7 @@
 
 ![ashumishrag's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashumishrag&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 
-<!---
 ![ashumishrag's Stats](https://github-readme-stats.vercel.app/api?username=ashumishrag&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
- --->
-
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/AshuMishraG?cardType=level-alternate&theme=tokyonight&preferLogin=true&Border=000000)](https://git.io/awesome-stats-card)
 
 </div>
 
@@ -64,18 +60,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AshuMishraG&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
-<!---  ## 💰 You can help me by Donating
+  ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/AshuMishraG) 
-  --->
 
 </div>
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AshuMishraG&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AshuMishraG&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AshuMishraG&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
----
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
