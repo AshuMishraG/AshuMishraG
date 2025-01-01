@@ -50,6 +50,8 @@
 
 ![ashumishrag's Stats](https://github-readme-stats.vercel.app/api?username=ashumishrag&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 
+![image](https://github.com/user-attachments/assets/c031a0ee-8578-478c-9689-059fc55dabe5)
+
 </div>
 
 <div align="center">
