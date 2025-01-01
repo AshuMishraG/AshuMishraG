@@ -25,9 +25,6 @@
 
 ![ashumishrag's Stats](https://github-readme-stats.vercel.app/api?username=ashumishrag&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 
-# 📊 GitHub Graph:
-[![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ashumishrag&My_Github_Activity=This%20is%20a%20title&hide_border=true)](https://github.com/ashumishrag/github-readme-activity-graph)
-
 ## 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ashumishrag&theme=onedark)](https://github.com/ANTRUMEYE/-Github-Profile-Trophy)
