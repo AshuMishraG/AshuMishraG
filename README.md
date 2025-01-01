@@ -49,15 +49,17 @@
 
 ![ashumishrag's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashumishrag&theme=tokyonight&hide_border=false)
 
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/AshuMishraG?cardType=github&theme=tokyonight&preferLogin=true)](https://git.io/awesome-stats-card)
+
+
 <!--
 ![ashumishrag's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashumishrag&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
--->
 
 ![ashumishrag's Stats](https://github-readme-stats.vercel.app/api?username=ashumishrag&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
+-->
 
+<!-- Github Graph Entire History -->
 ![image](https://github.com/user-attachments/assets/c031a0ee-8578-478c-9689-059fc55dabe5)
-
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/AshuMishraG?cardType=github&theme=tokyonight&preferLogin=true)](https://git.io/awesome-stats-card)
 
 </div>
 
