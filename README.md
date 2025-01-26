@@ -1,4 +1,4 @@
-<h1 align="center">Sup!🙋🏻‍♂️ I'm Ashutosh Mishra 🕉️</h1>
+![image](https://github.com/user-attachments/assets/1b02305d-3c1a-4743-b63b-c82dc951c249)<h1 align="center">Sup!🙋🏻‍♂️ I'm Ashutosh Mishra 🕉️</h1>
 
 
 
@@ -33,7 +33,7 @@
 ![snake gif](https://github.com/AshuMishraG/AshuMishraG/blob/output/github-snake-dark.svg)
 
 <!-- Github Graph Entire History -->
-![image](https://github.com/user-attachments/assets/ac45e531-6a8c-4fa7-884e-5be3518e5d2b)
+![image](https://github.com/user-attachments/assets/fd56d668-41d1-4634-b1d1-766930176883)
 
 </div>
 
