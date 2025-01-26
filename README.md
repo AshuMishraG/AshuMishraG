@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/1b02305d-3c1a-4743-b63b-c82dc951c249)<h1 align="center">Sup!🙋🏻‍♂️ I'm Ashutosh Mishra 🕉️</h1>
+<h1 align="center">Sup!🙋🏻‍♂️ I'm Ashutosh Mishra 🕉️</h1>
 
 
 
