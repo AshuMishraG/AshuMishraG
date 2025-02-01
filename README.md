@@ -1,3 +1,6 @@
+<img src="./myReadme.png" alt="My Readme Image" width="300" height="200" />
+
+
 <h1 align="center">Sup!🙋🏻‍♂️ I'm Ashutosh Mishra 🕉️</h1>
 
 
