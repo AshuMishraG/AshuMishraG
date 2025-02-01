@@ -1,8 +1,4 @@
-<img src="./myReadme.png" alt="My Readme Image" width="300" height="200" />
-
-
-<h1 align="center">Sup!🙋🏻‍♂️ I'm Ashutosh Mishra 🕉️</h1>
-
+<img src="./myReadme.png" alt="MySelf" />
 
 
 <!-- Profile View Count-->
@@ -14,13 +10,10 @@
 
 <!-- Social Links -->
 <div align="center">
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3p1Zm0zdjZpM3A2czdmczl5azFnZHN5bzZtYXR5MjZkcDR3Y3FrNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lP8xu5t2DLGG045H8F/giphy.gif" alt="Giphy GIF" width="100"/>
 <p>
 <a href="https://twitter.com/ashumishrag1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashumishrag1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ashumishrag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashumishrag" height="30" width="40" /></a>
-<!--
 <a href="https://www.leetcode.com/ashumishrag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ashumishrag" height="30" width="40" /></a>
--->
 </p>
 </div>
 
