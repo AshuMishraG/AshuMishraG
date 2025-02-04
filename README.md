@@ -55,13 +55,18 @@
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/AshuMishraG?cardType=level&theme=tokyonight&preferLogin=true)](https://git.io/awesome-stats-card)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AshuMishraG&theme=tokyonight)
+
 </div>
 
 
 
 <div align="center">
 
+<!-- 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AshuMishraG&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
+-->
+
 
 
 ## 🏆 GitHub Trophies
