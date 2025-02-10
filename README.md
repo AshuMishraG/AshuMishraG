@@ -35,10 +35,10 @@
 <details>
   <summary><b>📊 Github Overall Contribution Graph</b></summary>
   <p align="center">
-    
-  ![image](https://github.com/user-attachments/assets/d5d01bf7-3268-4003-abf3-3afc5cfbdf82)
 
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AshuMishraG&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+  ![image](https://github.com/user-attachments/assets/0b15820e-f0b3-4892-83a8-bdf064f9ae7d)
 
   </p>
 </details>
@@ -81,11 +81,5 @@
   <summary><b>🏆 Github Trophies</b></summary>
   <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=AshuMishraG&theme=onedark" alt="Github Trophies" />
-
-    <!-- GitHub Metrics (At the Top) -->
-<div align="center">
-  
-  ![GitHub Metrics](./github-metrics.svg)
-</div>
   </p>
 </details>
