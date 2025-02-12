@@ -73,7 +73,7 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AshuMishraG&theme=tokyonight)
 
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/ashumishrag/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
   </p>
   </div>
