@@ -73,6 +73,8 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AshuMishraG&theme=tokyonight)
 
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+
   </p>
   </div>
 </details>
@@ -82,4 +84,6 @@
   <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=AshuMishraG&theme=onedark" alt="Github Trophies" />
   </p>
+
+  [![forthebadge](https://forthebadge.com/images/featured/featured-built-with-love.svg)](https://forthebadge.com)
 </details>
