@@ -67,7 +67,7 @@
 
 [![GitHub Trends](https://api.githubtrends.io/user/svg/AshuMishraG/repos?time_range=one_year&include_private=True&group=private&loc_metric=changed&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashumishrag&langs_count=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashumishrag&theme=tokyonight&langs_count=10)
     
 [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=AshuMishraG&theme=tokyonight-duo)](https://git.io/streak-stats)
 
