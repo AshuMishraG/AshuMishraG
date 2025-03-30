@@ -1,6 +1,10 @@
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sedan+SC&weight=500&size=30&pause=1000&color=F63024&background=6883FF00&center=true&vCenter=true&random=false&width=450&lines=Hello!+I'm+Ashutosh+Mishra; Software+Engineer;%26+AI/ML+Full-Stack+" alt="Typing SVG" /></a> 
+
 <!-- Profile Image -->
 <div align="center">
-  <img src="./myReadme.png" alt="MySelf" />
+<!--   <img src="./myReadme.png" alt="MySelf" />
+ -->
   <a href="https://3-d-portfolio-nine-mu.vercel.app/" target="_blank">
     🚀 <b>My 3D Portfolio</b>
   </a>
@@ -38,7 +42,7 @@
 
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AshuMishraG&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-  ![image](https://github.com/user-attachments/assets/0b15820e-f0b3-4892-83a8-bdf064f9ae7d)
+![image](https://github.com/user-attachments/assets/276228f8-e742-484e-82fe-40e264a9d0f3)
 
   </p>
 </details>
