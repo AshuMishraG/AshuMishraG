@@ -9,6 +9,14 @@
     🚀 <b>My 3D Portfolio</b>
   </a>
 </div>
+
+ <!-- Resume Link -->
+<div align="center">
+  <a href="https://ashumishrag.github.io/Resume/resume.pdf" target="_blank">
+    📄 <b>View My Resume</b>
+  </a>
+</div>
+
   </br>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=AshuMishraG&style=flat-square&color=blue" alt="Profile Views" />
