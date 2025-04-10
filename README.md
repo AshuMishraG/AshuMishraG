@@ -9,19 +9,22 @@
     🚀 <b>My 3D Portfolio</b>
   </a>
 </div>
-  </br>
+
+</br>
 
  <!-- Resume Link -->
 <div align="center">
   <a href="https://ashumishrag.github.io/Resume/resume.pdf" target="_blank">
-    📄 <b>View My Resume</b>
+    🙏🏼 <b> My Resume</b>
   </a>
 </div>
 
-  </br>
+</br>
+
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=AshuMishraG&style=flat-square&color=blue" alt="Profile Views" />
-  </br>
+
+</br>
 
 <p>
   <a href="https://twitter.com/ashumishrag1" target="blank">
@@ -38,9 +41,8 @@
   </a>
 </p>
 
-
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
-  </div>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
+</div>
 
   <p align="center">
     <img src="https://github.com/AshuMishraG/AshuMishraG/blob/output/github-snake-dark.svg" alt="Snake Graph" />
@@ -48,7 +50,7 @@
 
 
 <details>
-  <summary><b>📊 Github Overall Contribution Graph</b></summary>
+  <summary><b>📊 Overall Contribution Graph</b></summary>
   <p align="center">
 
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AshuMishraG&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -82,7 +84,7 @@
 
 [![GitHub Trends](https://api.githubtrends.io/user/svg/AshuMishraG/repos?time_range=one_year&include_private=True&group=private&loc_metric=changed&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashumishrag&theme=tokyonight&langs_count=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashumishrag&theme=tokyonight&langs_count=8)
     
 [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=AshuMishraG&theme=tokyonight-duo)](https://git.io/streak-stats)
 
