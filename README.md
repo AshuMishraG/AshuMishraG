@@ -41,6 +41,8 @@
   </a>
 </p>
 
+</br>
+
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
 
 <img src="https://github.com/AshuMishraG/AshuMishraG/blob/output/github-snake-dark.svg" alt="Snake Graph" />
