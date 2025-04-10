@@ -42,11 +42,11 @@
 </p>
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
-</div>
 
-  <p align="center">
-    <img src="https://github.com/AshuMishraG/AshuMishraG/blob/output/github-snake-dark.svg" alt="Snake Graph" />
-  </p>
+<p align="center">
+ <img src="https://github.com/AshuMishraG/AshuMishraG/blob/output/github-snake-dark.svg" alt="Snake Graph" />
+</p>
+</div>
 
 
 <details>
