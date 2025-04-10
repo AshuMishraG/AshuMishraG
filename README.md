@@ -23,9 +23,9 @@
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=AshuMishraG&style=flat-square&color=blue" alt="Profile Views" />
+</div>
 
-</br>
-
+<div align="center">
 <p>
   <a href="https://twitter.com/ashumishrag1" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" 
