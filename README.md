@@ -21,23 +21,23 @@
   </br>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=AshuMishraG&style=flat-square&color=blue" alt="Profile Views" />
+  </br>
 
 <p>
   <a href="https://twitter.com/ashumishrag1" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" 
       alt="Twitter" height="30" width="40" />
-  </a>
-   </br>
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/ashumishrag" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
       alt="LinkedIn" height="30" width="40" />
-    </a>
-      </br>
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.leetcode.com/ashumishrag" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" 
       alt="LeetCode" height="30" width="40" />
   </a>
 </p>
+
 
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
   </div>
