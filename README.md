@@ -9,6 +9,7 @@
     🚀 <b>My 3D Portfolio</b>
   </a>
 </div>
+  </br>
 
  <!-- Resume Link -->
 <div align="center">
