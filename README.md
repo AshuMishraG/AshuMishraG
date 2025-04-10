@@ -40,10 +40,11 @@
       alt="LeetCode" height="30" width="40" />
   </a>
 </p>
+</div>
 
-</br>
+<div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
+<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight" alt="Quote" />
 
 <img src="https://github.com/AshuMishraG/AshuMishraG/blob/output/github-snake-dark.svg" alt="Snake Graph" />
 </div>
