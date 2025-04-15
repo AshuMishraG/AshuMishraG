@@ -1,5 +1,6 @@
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sedan+SC&weight=500&size=30&pause=1000&color=F63024&background=6883FF00&center=true&vCenter=true&random=false&width=450&lines=Sup!+I'm+Ashutosh+Mishra; Software+Engineer; AI/ML+%26+Full-Stack+" alt="Typing SVG" /></a> 
+<a href="[https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sedan+SC&weight=500&size=30&pause=1000&color=F63024&background=6883FF00&center=true&vCenter=true&random=false&width=450&lines=Sup!+I'm+Ashutosh+Mishra; Software+Engineer; AI/ML+%26+Full-Stack+](https://readme-typing-svg.demolab.com/demo/?center=true&vCenter=true&multiline=true&lines=Sup!+I'm+Ashutosh+Mishra;Software+Engineer;AI%2FML+%26+Full+Stack
+)" alt="Typing SVG" /></a> 
 
 <!-- Profile Image -->
 <div align="center">
