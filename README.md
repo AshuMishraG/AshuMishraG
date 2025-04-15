@@ -1,5 +1,5 @@
-<p align="center">
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=Sup!+I'm+Ashutosh+Mishra;Software+Engineer;AI%2FML+%26+Full+Stack)](https://git.io/typing-svg)
+
 
 <!-- Profile Image -->
 <div align="center">
