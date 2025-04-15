@@ -1,7 +1,8 @@
+<div align="center">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=500&height=40&lines=Sup!+I'm+Ashutosh+Mishra;Software+Engineer;AI%2FML+%26+Full+Stack)](https://git.io/typing-svg)
 
 <!-- Profile Image -->
-<div align="center">
 <!--   <img src="./myReadme.png" alt="MySelf" />
  -->
   <a href="https://3-d-portfolio-nine-mu.vercel.app/" target="_blank">
