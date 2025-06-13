@@ -1,6 +1,10 @@
 <div align="center">
 
+<!--
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=500&height=40&lines=Sup!+I'm+Ashutosh+Mishra;Software+Engineer;AI%2FML+%26+Full+Stack)](https://git.io/typing-svg)
+-->
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=30&pause=1000&duration=1500&color=26FF00&center=true&vCenter=true&width=500&height=40&lines=Sup!+I'm+Ashutosh+Mishra;Software+Engineer;AI%2FML+%26+Full+Stack)](https://git.io/typing-svg)
 
 <!-- Profile Image -->
 <!--   <img src="./myReadme.png" alt="MySelf" />
@@ -56,7 +60,7 @@
 
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AshuMishraG&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![image](https://github.com/user-attachments/assets/276228f8-e742-484e-82fe-40e264a9d0f3)
+![image](https://github.com/user-attachments/assets/13bd5b36-70a0-458b-8ffb-cb1a16d0a310)
 
   </p>
 </details>
