@@ -105,7 +105,9 @@
     <img src="https://github-profile-trophy.vercel.app/?username=AshuMishraG&theme=onedark" alt="Github Trophies" />
   </p>
 
- <p align="center">
-   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:26ff00,100:000000&height=100&section=footer"/>
- </p>
 </details>
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:26ff00,100:000000&height=60&section=footer"/>
+</p>
