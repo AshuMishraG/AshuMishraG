@@ -56,7 +56,7 @@
 
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AshuMishraG&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![image](https://github.com/user-attachments/assets/13bd5b36-70a0-458b-8ffb-cb1a16d0a310)
+<img width="676" height="614" alt="image" src="https://github.com/user-attachments/assets/5f0400f2-66c8-4641-b93f-71c44f5b7edd" />
 
   </p>
 </details>
@@ -109,5 +109,5 @@
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:26ff00,100:000000&height=60&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:26ff00,100:000000&height=80&section=footer"/>
 </p>
