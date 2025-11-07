@@ -22,24 +22,19 @@
 </br>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=AshuMishraG&style=flat-square&color=blue" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=AshuMishraG&style=flat-square&color=26FF00" alt="Profile Views" />
 </div>
 
 <div align="center">
-<p>
-  <a href="https://twitter.com/ashumishrag1" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" 
-      alt="Twitter" height="30" width="40" />
+  <a href="https://twitter.com/ashumishrag1" target="_blank">
+    <img src="https://img.shields.io/badge/X-%23000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter">
   </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/ashumishrag" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
-      alt="LinkedIn" height="30" width="40" />
+  <a href="https://linkedin.com/in/ashumishrag" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.leetcode.com/ashumishrag" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" 
-      alt="LeetCode" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LeetCode-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
   </a>
-</p>
 </div>
 
 <p align="center">
@@ -56,7 +51,8 @@
 
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AshuMishraG&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<img width="676" height="614" alt="image" src="https://github.com/user-attachments/assets/5f0400f2-66c8-4641-b93f-71c44f5b7edd" />
+<img width="676" height="614" alt="image" src="https://github.com/user-attachments/assets/db9efcf1-317e-485e-a7a5-b2cde5f41305" />
+
 
   </p>
 </details>
@@ -109,5 +105,5 @@
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:26ff00,100:000000&height=80&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=flow&color=0:26ff00,100:000000&height=60&section=footer"/>
 </p>
