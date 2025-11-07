@@ -105,5 +105,5 @@
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=flow&color=26ff00&height=60&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=flow&color=0:%2326ff00,100:%23000000&height=60&section=footer"/>
 </p>
