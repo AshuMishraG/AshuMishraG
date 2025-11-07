@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=30&pause=1000&duration=3000&color=26FF00&center=true&vCenter=true&width=500&height=40&lines=Sup!+I'm+Ashutosh+Mishra;Software+Engineer;AI%2FML+%26+Full+Stack)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=30&pause=1500&duration=3500&color=26FF00&center=true&vCenter=true&width=500&height=40&lines=Sup!+I'm+Monk;Software+Engineer;AI%2FML+%26+Full+Stack)](https://git.io/typing-svg)
 
 <!-- Profile Image -->
 <!--   <img src="./myReadme.png" alt="MySelf" />
@@ -105,5 +105,5 @@
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:26ff00,100:000000&height=60&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:26ff00,100:000000&height=70&section=footer"/>
 </p>
